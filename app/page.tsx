@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div>
-      henlo
+      remember to serve pocketbase and go to /chat for the actual app.
     </div>
   );
 }
